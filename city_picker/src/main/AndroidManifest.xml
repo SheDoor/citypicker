@@ -1,0 +1,13 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.ocnyang.city_picker" >
+    <application>
+        <activity android:name=".style.citylist.CityListSelectActivity">
+        </activity>
+        <activity android:name=".style.citythreelist.ProvinceActivity">
+        </activity>
+        <activity android:name=".style.citythreelist.CityActivity">
+        </activity>
+        <activity android:name=".style.citythreelist.AreaActivity">
+        </activity>
+    </application>
+</manifest>
